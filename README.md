@@ -126,6 +126,8 @@ nohup python train.py --training_type chained --reward_type game_and_IM  --subKG
 - We added a folder called ***Stanford CoreNLP- 2018*** Version which includes all the java files to setup the Stanford CoreNLP server. This is used in the source code especially for information extraction pin knowledge graph building and construction. This fixed a lot of path issues and environment initialization issues.
 - We also included a repository clone of ***Z-machine games*** which includes ***Jericho framework game suite*** in which we find ***zork1.z5*** file. This is also something which existing source code does not specifies properly.
 
+-------
+
 ## Team Members & Contributors to the Project
 
 <table>
